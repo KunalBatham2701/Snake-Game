@@ -55,6 +55,7 @@
     cursor: pointer;
     position: absolute;
     top: 20vh;
+    right: 16.7vw;
     font-size: 3.4rem;
     background-image: linear-gradient(to left, blue,rgb(238, 144, 200), indigo, yellow, green, orange,lightpink,  red);
         -webkit-background-clip: text;
